@@ -1,0 +1,18 @@
+{
+  "name": "YarnGuide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FazaCapt/YarnGuide.git",
+  "author": "faza Fahamsyah <fazafahamsyah@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": ""
+  }
+}
